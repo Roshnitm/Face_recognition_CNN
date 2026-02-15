@@ -5,6 +5,8 @@ The model detects human facial emotions from images or webcam input in real-time
 
 This project uses OpenCV for face detection and TensorFlow for emotion classification.
 
+![Face Recognition](images/image.png)
+
 ---
 
 ## 📌 Detected Emotions
